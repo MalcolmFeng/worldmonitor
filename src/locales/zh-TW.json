@@ -2092,7 +2092,7 @@
       "infoTooltip": "<strong>進階股票分析</strong> 針對自選股列表的 AI 分析 — 買入/持有/賣出訊號、目標價、主要風險和催化劑，每日更新。"
     },
     "stockBacktest": {
-      "infoTooltip": "<strong>進階回測</strong> 針對自選股列錶的歷史表現回測 — 歷史收益、最大回撤和波動率指標。"
+      "infoTooltip": "<strong>進階回測</strong> 針對自選股列表的歷史表現回測 — 歷史收益、最大回撤和波動率指標。"
     },
     "dailyMarketBrief": {
       "infoTooltip": "<strong>每日市場簡報</strong> AI 生成的全球市場狀況、關鍵宏觀趨勢和板塊級訊號每日摘要 — 每個交易日重新整理。"
@@ -2354,7 +2354,7 @@
       },
       "unavailable": {
         "symbols": "{{symbols}} — {{reason}}",
-        "symbolsMore": "{{symbols}} 等 {{count}} 個 — {{reason}}",
+        "symbolsMore": "{{symbols}} +{{count}} 個 — {{reason}}",
         "notFound": "無可用報價",
         "providerError": "報價查詢失敗，即將重試",
         "rateLimited": "報價源觸發限流，即將重試",
