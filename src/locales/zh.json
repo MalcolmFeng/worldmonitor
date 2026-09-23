@@ -2354,7 +2354,7 @@
       },
       "unavailable": {
         "symbols": "{{symbols}} — {{reason}}",
-        "symbolsMore": "{{symbols}} 等 {{count}} 个 — {{reason}}",
+        "symbolsMore": "{{symbols}} +{{count}} 个 — {{reason}}",
         "notFound": "无可用报价",
         "providerError": "报价查询失败，即将重试",
         "rateLimited": "报价源触发限流，即将重试",
